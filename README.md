@@ -30,12 +30,16 @@ To analyze workplace injury data across locations, departments, shifts, and gend
 3. Analysis by Dimensions-
 
    -> Yearly Trend Analysis: Compared incident costs across 2020–2022.
+   
    -> Location Analysis: Identified top cities contributing to expenditure.
+   
    -> Departmental Analysis: Evaluated cost variations across departments.
+   
    -> Incident Type Analysis: Tracked frequency of incidents (burns, slips, equipment failures, etc.).
+   
    -> Shift & Gender Analysis: Assessed lost workdays by gender and shift.
 
-4. Interpretation & Insights- Drew conclusions on risk areas, cost drivers, and workforce impact.Suggested measures for reducing incidents, improving safety, and lowering costs.
+5. Interpretation & Insights- Drew conclusions on risk areas, cost drivers, and workforce impact.Suggested measures for reducing incidents, improving safety, and lowering costs.
 
 # CONCLUSION
 
